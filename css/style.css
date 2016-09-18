@@ -1,0 +1,63 @@
+a {
+	color: #900;
+}
+
+
+body {
+	background-color: #ffffff;
+	margin: 20px;
+	font-size: 1.8 em;
+	line-height: 1.6;
+	font-family: "Avenir Next", "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	margin-top: 100 px;
+}
+
+
+h1 {
+	font-size: 40px
+	border-top: #ffffff;
+	font-family: "Roboto";
+}
+
+
+h5 {
+	color: #887;
+}
+
+#logo{
+   
+  margin: 46px 0;
+  height: 91px;
+  width: 90px;
+
+}
+
+.nav-Item {
+	float: right;
+	padding-top: 85px;
+	display: inline-block;
+	font-weight: thin;
+	letter-spacing: 1.6 px;
+	color: #979797;
+	margin-left: 50px;
+}
+
+.portfolio-Image {
+	display: inline-block;
+	border: .5px solid #black;
+	padding: 5px;
+	width: 30%;
+	height: 30%;
+
+}
+
+
+#sofia-Photo {
+	display: inline-block;
+	border: .5px solid #ffffff;
+	border-radius: 50%;
+	padding: 5px;
+	width: 15%;
+	height: 15%;
+}
+
